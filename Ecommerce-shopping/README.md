@@ -20,6 +20,7 @@ Um site de E-commerce simples usando Flask.
 
 ## Sample User ##
 Exemplos de credenciais presentes no banco de dados existente:
+
 Username - sample@example.com
 Password - sample
 
