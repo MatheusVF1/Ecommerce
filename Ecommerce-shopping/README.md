@@ -1,25 +1,25 @@
-# Shopping Cart  
-A simple E-commerce website using Flask.
+# E-commerce Shopping  
+Um site de E-commerce simples usando Flask.
   
-## Dependencies ##
+## Dependências ##
 1. Python3
 2. Flask
 3. Sqlite
 
-## How to run ##
-1. Set up database by running database.py (Or you can reuse existing database included in the repo)
-2. Run main.py
-3. Enter localhost:5000 in the browser
+## Como usar ##
+1. Configure o banco de dados executando database.py (Ou você pode reutilizar o banco de dados existente incluído no repositório)
+2. Rodar main.py
+3. Colocar localhost:5000 no browser
 
-## Pipenv instructions ##
-1. Install pipenv (python3 -m pip install --user pipenv)
-2. Install dependencies (pipenv install --dev)
-3. Setup database (pipenv run python database.py)
-4. Run the server (pipenv run python main.py)
-5. Enter localhost:5000 in the browser
+## Instruções do Pipenv ##
+1. Instalar pipenv (python3 -m pip install --user pipenv)
+2. Instalar dependências (pipenv install --dev)
+3. Rodar database (pipenv run python database.py)
+4. Rodar o server (pipenv run python main.py)
+5. Colocar localhost:5000 no browser
 
 ## Sample User ##
-Sample credentials present in existing database:
+Exemplos de credenciais presentes no banco de dados existente:
 Username - sample@example.com
 Password - sample
 
